@@ -107,7 +107,7 @@ for d in d:
 time.sleep(4.3)
 print(f"{green} ")
 print ("Play - - - ! ")
-print (Fore.YELLOW + "")
+print (Fore.RED + "")
 time.sleep(1.7)
 print ("teleg - @hack666m")
 print(" = madhack -- ")
