@@ -8,14 +8,14 @@ __  __    _    ____
 |  \/  |  / \  |  _ \
 | |\/| | / _ \ | | | |
 | |  | |/ ___ \| |_| |
-|_|  |_/_/   \_\____/""")
+|_|  |_/_/   \_\____/        """)
 print(" ")
 print("""
  __    __    __
  / /_  / /_  / /_
 | '_ \| '_ \| '_ \
 | (_) | (_) | (_) |
- \___/ \___/ \___/ """)
+ \___/ \___/ \___/          """)
 print (" ")
 print("Load . . .")                 
 import os
@@ -52,7 +52,7 @@ print("started " + (x))
 
 print(f"{blue} ")
 print ("      mad filtering")
-print (Fore.YELLOW + "")
+print (Fore.WHITE + "")
 x = """ Loading ~ ~ ~ 
 
 
@@ -109,12 +109,13 @@ print(f"{green} ")
 print ("Play - - - ! ")
 print (Fore.YELLOW + "")
 time.sleep(1.7)
-print ("                       teleg - @hack666m")
+print ("teleg - @hack666m")
 print(" = madhack -- ")
 # 1 chanel 2 Group 3 acc
 up = input(""" 
 
 [channel (1) ]
+
 [ group  (2) ]
                  
 [Account (3) ]
